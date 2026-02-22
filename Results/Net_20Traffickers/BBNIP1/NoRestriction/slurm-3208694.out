@@ -1,0 +1,370 @@
+Set parameter TokenServer to value "license8.clemson.edu"
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 64, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Only 2 PF Points:
+PF Point1 (Opt, Pes) = (11, 59)
+PF Point2 (Opt, Pes) = (12, 53)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 64, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (27, 53)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 64, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (45, 53)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 64, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (53, 53)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 72, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Opt, Pes) = (10, 52)
+Set parameter IntegralityFocus to value 1
+
+Intermediate Point (Opt, Pes) = (11, 47)
+
+PF Point (Opt, Pes) = (12, 46)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 72, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Opt, Pes) = (24, 47)
+Set parameter IntegralityFocus to value 1
+
+Dominated point!
+
+PF Point (Opt, Pes) = (26, 46)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 72, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (40, 46)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 72, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (46, 46)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 80, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Opt, Pes) = (9, 45)
+Set parameter IntegralityFocus to value 1
+
+Intermediate Point (Opt, Pes) = (10, 41)
+
+PF Point (Opt, Pes) = (11, 40)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 80, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Opt, Pes) = (21, 41)
+Set parameter IntegralityFocus to value 1
+
+Dominated point!
+
+PF Point (Opt, Pes) = (23, 40)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 80, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (35, 40)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 80, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (40, 40)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 88, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Opt, Pes) = (8, 39)
+Set parameter IntegralityFocus to value 1
+
+Intermediate Point (Opt, Pes) = (9, 35)
+
+PF Point (Opt, Pes) = (10, 34)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 88, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Opt, Pes) = (18, 35)
+Set parameter IntegralityFocus to value 1
+
+Dominated point!
+
+PF Point (Opt, Pes) = (20, 34)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 88, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (30, 34)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 88, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (34, 34)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 96, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Opt, Pes) = (7, 33)
+Set parameter IntegralityFocus to value 1
+
+Intermediate Point (Opt, Pes) = (8, 29)
+
+PF Point (Opt, Pes) = (9, 28)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 96, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Opt, Pes) = (15, 29)
+Set parameter IntegralityFocus to value 1
+
+Dominated point!
+
+PF Point (Opt, Pes) = (17, 28)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 96, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (25, 28)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+Set parameter IntegralityFocus to value 1
+
+Net = 1, Budget = 96, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Opt, Pes) = (28, 28)
+
