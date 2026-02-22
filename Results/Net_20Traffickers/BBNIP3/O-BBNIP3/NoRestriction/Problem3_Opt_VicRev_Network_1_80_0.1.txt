@@ -1,0 +1,36 @@
+Instance Net20_OpSameCap.csv, Budget 80, Rate 0.1
+Instance executed at: Fri May 23 17:41:26 2025 
+
+No Restriction on Interdiction!
+
+Pareto Point: (9, 49)
+Interdiction:
+(0, 1), Trafficker
+(0, 11), Trafficker
+(0, 20), Trafficker
+(0, 35), Trafficker
+(0, 50), Trafficker
+(0, 65), Trafficker
+(0, 82), Trafficker
+(0, 125), Trafficker
+(43, 141), Victim
+(44, 141), Victim
+(90, 141), Victim
+(91, 141), Victim
+(92, 141), Victim
+(94, 141), Victim
+(95, 141), Victim
+(96, 141), Victim
+
+Pareto Point: (10, 44)
+Interdiction:
+(0, 1), Trafficker
+(0, 11), Trafficker
+(0, 20), Trafficker
+(0, 35), Trafficker
+(0, 50), Trafficker
+(0, 65), Trafficker
+(0, 82), Trafficker
+(0, 104), Trafficker
+(0, 112), Trafficker
+(0, 125), Trafficker

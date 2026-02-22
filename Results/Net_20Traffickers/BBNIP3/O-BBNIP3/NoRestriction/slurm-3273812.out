@@ -1,0 +1,398 @@
+Set parameter TokenServer to value "license8.clemson.edu"
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 64, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Only 2 PF Points:
+PF Point1 (Victims, Revenue) = (11, 65)
+PF Point2 (Victims, Revenue) = (12, 58)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 64, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Victims, Revenue) = (27, 250)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 64, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Victims, Revenue) = (45, 440)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 64, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Victims, Revenue) = (53, 662)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+PF Point (Victims, Revenue) = (54, 643)
+
+PF Point (Victims, Revenue) = (55, 636)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 72, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Only 2 PF Points:
+PF Point1 (Victims, Revenue) = (10, 57)
+PF Point2 (Victims, Revenue) = (11, 51)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 72, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Victims, Revenue) = (24, 220)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 72, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Victims, Revenue) = (40, 387)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 72, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Victims, Revenue) = (46, 606)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+PF Point (Victims, Revenue) = (47, 572)
+
+PF Point (Victims, Revenue) = (48, 559)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 80, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Only 2 PF Points:
+PF Point1 (Victims, Revenue) = (9, 49)
+PF Point2 (Victims, Revenue) = (10, 44)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 80, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Victims, Revenue) = (21, 192)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 80, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Victims, Revenue) = (35, 337)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 80, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Victims, Revenue) = (40, 516)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+PF Point (Victims, Revenue) = (41, 488)
+
+PF Point (Victims, Revenue) = (42, 483)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 88, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Only 2 PF Points:
+PF Point1 (Victims, Revenue) = (8, 42)
+PF Point2 (Victims, Revenue) = (9, 38)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 88, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Victims, Revenue) = (18, 166)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 88, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 1 PF Point:
+PF Point (Victims, Revenue) = (30, 291)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 88, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Victims, Revenue) = (34, 432)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+PF Point (Victims, Revenue) = (35, 416)
+
+PF Point (Victims, Revenue) = (36, 411)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 96, Rate = 0.1
+
+
+No Restriction on Interdiction!
+
+Only 2 PF Points:
+PF Point1 (Victims, Revenue) = (7, 35)
+PF Point2 (Victims, Revenue) = (8, 32)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 96, Rate = 0.4
+
+
+No Restriction on Interdiction!
+
+Only 2 PF Points:
+PF Point1 (Victims, Revenue) = (15, 144)
+PF Point2 (Victims, Revenue) = (16, 141)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 96, Rate = 0.7
+
+
+No Restriction on Interdiction!
+
+Only 2 PF Points:
+PF Point1 (Victims, Revenue) = (25, 252)
+PF Point2 (Victims, Revenue) = (26, 247)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Net = 1, Budget = 96, Rate = 1
+
+
+No Restriction on Interdiction!
+
+Multiple PF Points
+
+PF Point (Victims, Revenue) = (28, 360)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+PF Point (Victims, Revenue) = (29, 355)
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+Dominated point!
+
+Set parameter IntegralityFocus to value 1
+Set parameter TimeLimit to value 7200
+
+PF Point (Victims, Revenue) = (31, 352)
+
+PF Point (Victims, Revenue) = (32, 347)
+
